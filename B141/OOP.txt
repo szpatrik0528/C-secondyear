@@ -1,0 +1,11 @@
+oop:
+- elzártság (public, private, protect)
+- öröklődés
+- polimorfizmus
+
+
+exeption
+
+dinamikus List(tetszés szerint bővitheto, torolheto, objektum,stb)
+Array - teljesen más: rögzített, letárolandó adatok számát és típusát meg kell adni
+Dictionary - nagyon gyorsan keres, egy adott adat alapján tud nagyon gyorsan keresni

@@ -1,0 +1,8 @@
+C:\Users\szivos.patrik.david\Desktop\Suli\C#\B141\schumacher\bin\Debug\schumacher.exe.config
+C:\Users\szivos.patrik.david\Desktop\Suli\C#\B141\schumacher\bin\Debug\schumacher.exe
+C:\Users\szivos.patrik.david\Desktop\Suli\C#\B141\schumacher\bin\Debug\schumacher.pdb
+C:\Users\szivos.patrik.david\Desktop\Suli\C#\B141\schumacher\obj\Debug\schumacher.csproj.AssemblyReference.cache
+C:\Users\szivos.patrik.david\Desktop\Suli\C#\B141\schumacher\obj\Debug\schumacher.csproj.CoreCompileInputs.cache
+C:\Users\szivos.patrik.david\Desktop\Suli\C#\B141\schumacher\obj\Debug\schumacher.exe
+C:\Users\szivos.patrik.david\Desktop\Suli\C#\B141\schumacher\obj\Debug\schumacher.pdb
+C:\Users\szivos.patrik.david\Desktop\Suli\C#\B141\schumacher\bin\Debug\schumacher.csv

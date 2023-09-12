@@ -1,0 +1,7 @@
+C:\Users\szivos.patrik.david\Desktop\Suli\C#\PatrikSzivos0528\Csharpsecondyear\B141\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\szivos.patrik.david\Desktop\Suli\C#\PatrikSzivos0528\Csharpsecondyear\B141\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\szivos.patrik.david\Desktop\Suli\C#\PatrikSzivos0528\Csharpsecondyear\B141\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\szivos.patrik.david\Desktop\Suli\C#\PatrikSzivos0528\Csharpsecondyear\B141\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\szivos.patrik.david\Desktop\Suli\C#\PatrikSzivos0528\Csharpsecondyear\B141\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\szivos.patrik.david\Desktop\Suli\C#\PatrikSzivos0528\Csharpsecondyear\B141\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\szivos.patrik.david\Desktop\Suli\C#\PatrikSzivos0528\Csharpsecondyear\B141\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

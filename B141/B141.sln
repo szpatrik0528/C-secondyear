@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "schumacher", "schumacher\sc
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Berek2020_Feladat", "Berek2020_Feladat\Berek2020_Feladat.csproj", "{48DA5065-0A1E-49F5-9826-A4D86180573C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hidegburkolo", "Hidegburkolo\Hidegburkolo.csproj", "{DBBF8E58-59D6-465C-AF98-C797288225C2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{48DA5065-0A1E-49F5-9826-A4D86180573C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{48DA5065-0A1E-49F5-9826-A4D86180573C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{48DA5065-0A1E-49F5-9826-A4D86180573C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DBBF8E58-59D6-465C-AF98-C797288225C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBBF8E58-59D6-465C-AF98-C797288225C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBBF8E58-59D6-465C-AF98-C797288225C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBBF8E58-59D6-465C-AF98-C797288225C2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

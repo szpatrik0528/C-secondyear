@@ -21,7 +21,7 @@ namespace Hidegburkolo
             double teljesTerulet = alapterulet + oldalfalTerulet;
 
             double egyCsomagTerulet = 1.44;
-            double csomagSzukseges = (teljesTerulet / egyCsomagTerulet);
+            double csomagSzukseges = 1.1 * (teljesTerulet / egyCsomagTerulet);
 
             Console.WriteLine("Teljes felület: " + teljesTerulet + " m2");
             Console.WriteLine("Szükséges csempék száma: " + Math.Ceiling(csomagSzukseges) + " csomag kell.");

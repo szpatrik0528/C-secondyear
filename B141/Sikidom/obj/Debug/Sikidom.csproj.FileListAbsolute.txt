@@ -1,0 +1,7 @@
+C:\Users\szivos.patrik.david\source\repos\szpatrik0528\C-secondyear\B141\Sikidom\bin\Debug\Sikidom.exe.config
+C:\Users\szivos.patrik.david\source\repos\szpatrik0528\C-secondyear\B141\Sikidom\bin\Debug\Sikidom.exe
+C:\Users\szivos.patrik.david\source\repos\szpatrik0528\C-secondyear\B141\Sikidom\bin\Debug\Sikidom.pdb
+C:\Users\szivos.patrik.david\source\repos\szpatrik0528\C-secondyear\B141\Sikidom\obj\Debug\Sikidom.csproj.AssemblyReference.cache
+C:\Users\szivos.patrik.david\source\repos\szpatrik0528\C-secondyear\B141\Sikidom\obj\Debug\Sikidom.csproj.CoreCompileInputs.cache
+C:\Users\szivos.patrik.david\source\repos\szpatrik0528\C-secondyear\B141\Sikidom\obj\Debug\Sikidom.exe
+C:\Users\szivos.patrik.david\source\repos\szpatrik0528\C-secondyear\B141\Sikidom\obj\Debug\Sikidom.pdb
